@@ -2,7 +2,7 @@
 ##
 ## Title: |cfff43f5eTomo|r|cffFFFFFFSkins|r
 ## Notes: Standalone UI skin addon — Character, Action Bars, Minimap, Objective Tracker.
-## Category: |cffCC44FFTomo|r|cffFFFFFFSuite|r
+## Category: |cffCC44FFTomo|r|cffFFFFFFModules|r
 ##
 ## SavedVariables: TomoSkinsDB
 ## Author: TomoAniki

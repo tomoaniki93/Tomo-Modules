@@ -2,7 +2,7 @@
 ##
 ## Title: |cff06b6d4Tomo|r|cffFFFFFFCooldown|r
 ## Notes: Standalone addon — Cooldown Manager, Resource Bars, Skyriding bar.
-## Category: |cffCC44FFTomo|r|cffFFFFFFSuite|r
+## Category: |cffCC44FFTomo|r|cffFFFFFFModules|r
 ##
 ## SavedVariables: TomoCooldownDB
 ## Author: TomoAniki

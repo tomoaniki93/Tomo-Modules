@@ -2,7 +2,7 @@
 ##
 ## Title: |cff8b5cf6Tomo|r|cffFFFFFFPlates|r
 ## Notes: Standalone nameplate addon — health bars, castbars, auras, tank mode.
-## Category: |cffCC44FFTomo|r|cffFFFFFFSuite|r
+## Category: |cffCC44FFTomo|r|cffFFFFFFModules|r
 ##
 ## SavedVariables: TomoPlatesDB
 ## Author: TomoAniki

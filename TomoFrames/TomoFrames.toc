@@ -2,7 +2,7 @@
 ##
 ## Title: |cfff59e0bTomo|r|cffFFFFFFFrames|r
 ## Notes: Standalone unit frame addon — player, target, focus, pet, ToT, boss frames.
-## Category: |cffCC44FFTomo|r|cffFFFFFFSuite|r
+## Category: |cffCC44FFTomo|r|cffFFFFFFModules|r
 ##
 ## SavedVariables: TomoFramesDB
 ## Author: TomoAniki

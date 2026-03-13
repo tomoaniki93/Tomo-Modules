@@ -2,7 +2,7 @@
 ## 
 ## Title: |cffCC44FFTomo|r|cffFFFFFFCastbar|r
 ## Notes: Standalone castbar addon — Player, Target, Focus. Supports casts, channels, and empowered (Evoker).
-## Category: |cffCC44FFTomo|r|cffFFFFFFSuite|r
+## Category: |cffCC44FFTomo|r|cffFFFFFFModules|r
 ## 
 ## SavedVariables: TomoCastbarDB
 ## Author: TomoAniki
